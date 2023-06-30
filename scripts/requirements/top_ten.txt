@@ -1,0 +1,19 @@
+# Python testing template
+# A simple template for testing python code in a python environment
+# Github: https://www.github.com/lewisevans2007/python_testing_template
+# By: Lewis Evans
+
+# Testing 
+pytest
+
+# Top ten
+numpy
+scipy
+scikit-learn
+Pandas
+Six
+Requests
+Keras
+urlib3
+colorama
+matplotlib
