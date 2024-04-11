@@ -1,7 +1,7 @@
 # Python testing template
 # A simple template for testing python code in a python environment
-# Github: https://www.github.com/lewisevans2007/python_testing_template
-# By: Lewis Evans
+# Github: https://www.github.com/0x4248/python_testing_template
+# By: 0x4248
 
 # Testing package
 pytest

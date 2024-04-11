@@ -3,9 +3,9 @@
     "description": "This is a template for testing python code in a python environment.",
     "version": "",
     "main_file": "main.py",
-    "author": "Lewis Evans",
+    "author": "0x4248",
     "license": "Unlicenced",
-    "url": "https://www.github.com/lewisevans2007/python_testing_template",
+    "url": "https://www.github.com/0x4248/python_testing_template",
     "email": "none",
     "languages": [
         "python"
